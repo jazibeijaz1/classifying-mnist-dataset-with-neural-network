@@ -4,8 +4,9 @@ This notebook contains sample code for classification of the MNIST dataset with 
 
 
 ## Comparison between a single layer network and a two layered network with a ReLU activation function.
+
 <p align="center">
-<img src="https://github.com/jazibeijaz1/classifying-mnist-dataset-with-neural-network/blob/main/images/image1-copy.png">
+<img src="https://github.com/jazibeijaz1/classifying-mnist-dataset-with-neural-network/blob/main/images/image1.png">
 </p>
 
 - Accuracy for single layer network: 92.1%
@@ -15,7 +16,9 @@ This notebook contains sample code for classification of the MNIST dataset with 
 
 ## Comparison between a two layered network and a three layered network, both with ReLU activation functions.
 
-![alt text](https://github.com/jazibeijaz1/classifying-mnist-dataset-with-neural-network/blob/master/images/image2.png?raw=true)
+<p align="center">
+<img src="https://github.com/jazibeijaz1/classifying-mnist-dataset-with-neural-network/blob/main/images/image2.png">
+</p>
 
 - Accuracy for two layered network: 97.0%
 - Accuracy for three layered network: 97.7%
@@ -24,7 +27,9 @@ This notebook contains sample code for classification of the MNIST dataset with 
 
 ## Comparison between a three layered network(Sigmoid Activation) and a three layered network(ReLU Activation).
 
-![alt text](https://github.com/jazibeijaz1/classifying-mnist-dataset-with-neural-network/blob/master/images/image3.png?raw=true)
+<p align="center">
+<img src="https://github.com/jazibeijaz1/classifying-mnist-dataset-with-neural-network/blob/main/images/image3.png">
+</p>
 
 - Accuracy for three layered network(Sigmoid): 91.0%
 - Accuracy for three layered network(ReLU): 97.7%
