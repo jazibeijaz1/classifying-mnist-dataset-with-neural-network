@@ -5,7 +5,7 @@ This notebook contains sample code for classification of the MNIST dataset with 
 
 ## Comparison between a single layer network and a two layered network with a ReLU activation function.
 
-![alt text](https://github.com/jazibeijaz1/classifying-mnist-dataset-with-neural-network/blob/master/images/image1.png?raw=true)
+![alt text](https://github.com/jazibeijaz1/classifying-mnist-dataset-with-neural-network/blob/main/images/image1.png?raw=true)
 
 - Accuracy for single layer network: 92.1%
 - Accuracy for two layered network with ReLU activation function: 97.0%
